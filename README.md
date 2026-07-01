@@ -1,5 +1,5 @@
 # SmartCart-Customer-Segmentation
-Customer Segmentation using Machine Learning. This project performs data preprocessing, exploratory data analysis (EDA), feature engineering, K-Means clustering and Agglomerative Clustering to group customers based on purchasing behavior for better business insights.
+Customer Segmentation using Machine Learning. This project performs data preprocessing, exploratory data analysis (EDA), feature engineering, PCA for dimensionality reduction, K-Means clustering and Agglomerative Clustering to group customers based on purchasing behavior for better business insights.
 
 ## Features
 - Data Cleaning & Preprocessing
@@ -7,6 +7,7 @@ Customer Segmentation using Machine Learning. This project performs data preproc
 - Feature Engineering
 - Data Visualization
 - Feature Scaling
+- Principal Component Analysis (PCA)
 - K-Means Clustering and Agglomerative Clustering
 - Elbow Method and Silhouette Score for Optimal Clusters
 - Customer Cluster Analysis
@@ -25,9 +26,10 @@ Customer Segmentation using Machine Learning. This project performs data preproc
 2. Clean and preprocess the data
 3. Perform Exploratory Data Analysis (EDA)
 4. Scale the features
-5. Visualize and analyze customer segments 
-6. Apply K-Means Clustering and Agglomerative Clustering
-7. Characterisation of Clusters 
+5. PCA for dimensionality reduction
+6. Visualize and analyze customer segments 
+7. Apply K-Means Clustering and Agglomerative Clustering
+8. Characterisation of Clusters 
 
 ## Results
 The model successfully groups customers into meaningful clusters, helping businesses understand customer behavior and improve marketing strategies.
