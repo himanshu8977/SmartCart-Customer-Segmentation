@@ -8,7 +8,7 @@ Customer Segmentation using Machine Learning. This project performs data preproc
 - Data Visualization
 - Feature Scaling
 - K-Means Clustering and Agglomerative Clustering
-- Elbow Method for Optimal Clusters
+- Elbow Method and Silhouette Score for Optimal Clusters
 - Customer Cluster Analysis
 
 ## Tech Stack
