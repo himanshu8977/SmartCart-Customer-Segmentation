@@ -39,4 +39,4 @@ The model successfully groups customers into meaningful clusters, helping busine
 4. Run all cells
 
 ## Author
-*HIMANSHU JINDAL*
+**HIMANSHU JINDAL**
